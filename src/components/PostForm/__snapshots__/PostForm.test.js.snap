@@ -1,0 +1,36 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Postform: default 1`] = `
+<div
+  className="post_container"
+>
+  <h2
+    className="post_heading"
+  >
+    Create Post
+  </h2>
+  <form
+    className="form"
+    onSubmit={[Function]}
+  >
+    <input
+      placeholder="Enter Post Title"
+      required={true}
+      type="text"
+    />
+    <br />
+    <br />
+    <textarea
+      cols="28"
+      placeholder="Enter Post"
+      required={true}
+      rows="5"
+    />
+    <br />
+    <br />
+    <button>
+      Post
+    </button>
+  </form>
+</div>
+`;

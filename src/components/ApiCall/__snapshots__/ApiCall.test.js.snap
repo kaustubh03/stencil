@@ -1,0 +1,37 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Apicall: default 1`] = `
+<div>
+  <div
+    className="panelClass panel panel-default"
+  >
+    <h2
+      className={null}
+    >
+      API Calls with Redux, Axios
+    </h2>
+    <div
+      className="btn-toolbar"
+      role="toolbar"
+    >
+      <button
+        className="btn btn-success"
+        disabled={false}
+        onClick={[Function]}
+        type="button"
+      >
+        Fetch Data From Sample API
+      </button>
+    </div>
+    <div
+      className="panel-body"
+    >
+      <ul
+        className="list-group"
+      >
+        Sorry!!No Data Here.
+      </ul>
+    </div>
+  </div>
+</div>
+`;

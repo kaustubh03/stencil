@@ -1,0 +1,44 @@
+.App {
+  display: block;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Work Sans", sans-serif;
+  background: #f4f4ef;
+}
+
+.center {
+  text-align: center;
+}
+a {
+  color: #636363;
+  text-decoration: none;
+  transition: all 0.5s ease-in;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Navigation */
+
+.navbar {
+  background: #fff;
+  text-align: center;
+  padding: 1.5rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 0 5px 15px 0 rgba(46, 61, 73, 0.12);
+}
+
+.navbar h2 {
+  margin: 0;
+  font-weight: 200;
+  font-size: 30px;
+  letter-spacing: 4px;
+  font-family: "Open Sans", sans-serif;
+}

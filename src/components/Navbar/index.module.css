@@ -1,0 +1,17 @@
+.Navbar {
+  display: block;
+}
+a {
+  background-color: #000;
+  border-radius: 5px;
+  color: white !important;
+  padding: 0.5em !important;
+  text-decoration: none !important;
+  width: 78px !important;
+}
+
+a:focus,
+a:hover {
+  background-color: FireBrick !important;
+  color: White !important;
+}

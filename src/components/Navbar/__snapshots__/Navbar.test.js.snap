@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar: default 1`] = `
+<ul
+  className="nav nav-pills"
+  role={null}
+>
+  <li
+    className="btn"
+    role="presentation"
+  >
+    <a
+      href="/crud"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      title="CRUD Example"
+    >
+      CRUD Example
+    </a>
+  </li>
+  <li
+    className="btn"
+    role="presentation"
+  >
+    <a
+      href="/api"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+      title="API Calls Using Axios"
+    >
+      API Example
+    </a>
+  </li>
+  <li
+    className="btn"
+    role="presentation"
+  >
+    <a
+      href="/react-icons"
+      onClick={[Function]}
+      onKeyDown={[Function]}
+    >
+      React Icons
+    </a>
+  </li>
+</ul>
+`;

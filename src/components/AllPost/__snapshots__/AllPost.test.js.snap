@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Allpost: default 1`] = `
+<div>
+  <h1
+    className="all_post_heading"
+  >
+    All Posts
+  </h1>
+</div>
+`;

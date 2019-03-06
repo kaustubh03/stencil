@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Posts: default 1`] = `
+<div
+  className="post"
+>
+  <h2
+    className="post_title"
+  />
+  <p
+    className="post_message"
+  />
+  <div
+    className="control_buttons"
+  >
+    <button
+      className="edit"
+      onClick={[Function]}
+    >
+      Edit
+    </button>
+    <button
+      className="delete"
+      onClick={[Function]}
+    >
+      Delete
+    </button>
+  </div>
+</div>
+`;

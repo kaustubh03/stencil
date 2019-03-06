@@ -1,0 +1,74 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home: default 1`] = `
+<div
+  className="App"
+>
+  <header
+    className="App_header"
+  >
+    <div>
+      <h1>
+        React Boilerplate
+      </h1>
+      <h1>
+        React Boilerplate
+      </h1>
+      <h1>
+        React Boilerplate
+      </h1>
+    </div>
+    <br />
+    <div
+      className="description"
+    >
+      <h6>
+        With CRAv2, Redux, Hygen, Storybook, React Bootstrap, React Icons
+      </h6>
+    </div>
+    <ul
+      className="nav nav-pills"
+      role={null}
+    >
+      <li
+        className="btn"
+        role="presentation"
+      >
+        <a
+          href="/crud"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+          title="CRUD Example"
+        >
+          CRUD Example
+        </a>
+      </li>
+      <li
+        className="btn"
+        role="presentation"
+      >
+        <a
+          href="/api"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+          title="API Calls Using Axios"
+        >
+          API Example
+        </a>
+      </li>
+      <li
+        className="btn"
+        role="presentation"
+      >
+        <a
+          href="/react-icons"
+          onClick={[Function]}
+          onKeyDown={[Function]}
+        >
+          React Icons
+        </a>
+      </li>
+    </ul>
+  </header>
+</div>
+`;

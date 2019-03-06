@@ -1,0 +1,9 @@
+/* All Posts */
+
+.all_post_heading {
+  text-align: center;
+  font-weight: 400;
+  font-size: 40px;
+  color: #636363;
+  word-wrap: break-word;
+}

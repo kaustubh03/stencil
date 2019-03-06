@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Editcomponent: default 1`] = `
+<div
+  className="post"
+>
+  <form
+    className="form"
+    onSubmit={[Function]}
+  >
+    <input
+      defaultValue={null}
+      placeholder="Enter Post Title"
+      required={true}
+      type="text"
+    />
+    <br />
+    <br />
+    <textarea
+      cols="28"
+      defaultValue={null}
+      placeholder="Enter Post"
+      required={true}
+      rows="5"
+    />
+    <br />
+    <br />
+    <button>
+      Update
+    </button>
+  </form>
+</div>
+`;
